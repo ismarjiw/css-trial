@@ -1,0 +1,42 @@
+/* .h1style {
+    font-family:bold;
+    color: green
+} */
+
+/* #div {
+    background-color: #ff0000;
+    width: 350px;
+    height: 240px;
+    padding-right: 40px;
+    margin-block-start: -8px;
+    margin-left: -8px;
+} */
+
+/* #flexdirection {
+    width: 500px;
+    height: 100px;
+    background-color: black;
+    margin: -8px;
+}
+
+#flexdirection1 {
+    width: 500px;
+    height: 100px;
+    background-color: orangered;
+    margin: -8px;
+}
+
+#flexdirection2 {
+    width: 500px;
+    height: 100px;
+    background-color: #ffd700;
+    margin: -8px;
+} */
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    display: inline-block;
+    margin: 25px;
+}
